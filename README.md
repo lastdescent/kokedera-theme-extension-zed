@@ -8,7 +8,7 @@
 
 ## About
 
-**Kokedera** (苔寺, *Temple of Moss*) is a meditative dark theme inspired by **Saihō-ji** — the ancient moss garden in Kyoto. The palette grows from a single source: the patient green of moss, accented by lantern amber, cedar teal, and stone gray.
+**Kokedera** (苔寺, *Temple of Moss*) is a meditative dark color theme inspired by **Saihō-ji** — the ancient moss garden in Kyoto. The palette grows from a single source: the patient green of moss, accented by lantern amber, cedar teal, and stone gray.
 
 ## Installation
 
@@ -20,9 +20,9 @@
 6. Open command palette again and search for **"theme selector: toggle"**
 7. Select **Kokedera**
 
-## Pair with the icon pack
+## Pair with the icon theme
 
-- **[Kokedera Icons](https://zed.dev/extensions/kokedera-icons)** — 151 matching file & folder icons
+- **[Kokedera Icons](https://zed.dev/extensions/kokedera-icons)** — the matching file icon theme
 
 ## Also available for
 
