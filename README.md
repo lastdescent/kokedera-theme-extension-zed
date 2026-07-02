@@ -22,7 +22,7 @@
 
 ## Pair with the icon pack
 
-- **[Kokedera Icons](https://zed.dev/extensions/kokedera-icons)** — 128+ matching file & folder icons
+- **[Kokedera Icons](https://zed.dev/extensions/kokedera-icons)** — 151 matching file & folder icons
 
 ## Also available for
 
